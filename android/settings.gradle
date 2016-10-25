@@ -1,0 +1,3 @@
+rootProject.name = 'ReactObj'
+
+include ':app'
